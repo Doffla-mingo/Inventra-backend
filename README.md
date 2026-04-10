@@ -56,3 +56,21 @@ npm start
 Server will run on:
 
 http://localhost:5000
+
+📧 Email Notifications
+Sends email when:
+New item is added
+Item is updated
+Stock reaches a threshold (if implemented)
+⚠️ Notes
+Ensure MySQL server is running
+Enable less secure apps or use app passwords for email
+Triggers must be properly configured in database
+🌟 Future Improvements
+Add authentication (JWT)
+Add frontend dashboard
+Deploy on cloud (Railway / Render)
+Add analytics & reports
+🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
